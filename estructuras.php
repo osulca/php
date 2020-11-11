@@ -34,6 +34,7 @@ switch ($c) {
 		break;
 }
 echo "<p>";
+
 //ESTRUCTURAS DE CONTROL 
 // FOR
 for($i=0; $i<=10; $i++){
